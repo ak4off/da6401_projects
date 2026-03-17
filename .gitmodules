@@ -4,3 +4,6 @@
 [submodule "cnn-experiments"]
 	path = cnn-experiments
 	url = https://github.com/ak4off/da6401_assignment2.git
+[submodule "seq2seq-attention"]
+	path = seq2seq-attention
+	url = https://github.com/ak4off/da6401_assignment3.git
