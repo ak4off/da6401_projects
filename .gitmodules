@@ -1,3 +1,6 @@
 [submodule "assignment1"]
 	path = nn-from-scratch
 	url = https://github.com/ak4off/da6401_assignment1.git
+[submodule "cnn-experiments"]
+	path = cnn-experiments
+	url = https://github.com/ak4off/da6401_assignment2.git
